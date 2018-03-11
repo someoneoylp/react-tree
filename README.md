@@ -1,2 +1,1 @@
-# react-tree
-使用react实现树组件
+### react实现树组件
